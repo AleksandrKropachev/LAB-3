@@ -19,6 +19,7 @@
 ### Тестирование
 
 Скриншоты результата работы программы 
+
 <img width="462" height="66" alt="Снимок экрана 2026-03-10 065510" src="https://github.com/user-attachments/assets/1b341f82-1403-4347-a6c6-fbb3d4eed36e" />
 
 ## Задача 2
@@ -36,9 +37,10 @@
 Функция Seq.fold принимает начальное значение, равное 0, и функцию addRoman. Внутри функции addRoman текущее значение суммы прибавляется к числу, полученному из функции romanToInt.
 
 ### Тестирование
-<img width="584" height="69" alt="Снимок экрана 2026-03-10 065514" src="https://github.com/user-attachments/assets/c69e4fbf-ddca-4d98-b1ae-308b7f2dd4ac" />
 
 Скриншоты результата работы программы
+
+<img width="584" height="69" alt="Снимок экрана 2026-03-10 065514" src="https://github.com/user-attachments/assets/c69e4fbf-ddca-4d98-b1ae-308b7f2dd4ac" />
 
 ## Задача 3
 
@@ -58,4 +60,5 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+
 <img width="400" height="69" alt="Снимок экрана 2026-03-10 065517" src="https://github.com/user-attachments/assets/d2e08485-40b3-48f7-ae52-afe3f91cb826" />
