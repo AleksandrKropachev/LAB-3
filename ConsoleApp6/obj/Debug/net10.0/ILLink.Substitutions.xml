@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ConsoleApp6">
+    <resource name="FSharpSignatureData.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ConsoleApp6" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ConsoleApp6" action="remove"></resource>
+  </assembly>
+</linker>
